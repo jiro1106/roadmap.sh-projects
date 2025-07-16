@@ -1,2 +1,3 @@
 # roadmap.sh-projects
-Personal projects following roadmap.sh
+
+This repository contains Personal projects following the roadmap.sh path.
